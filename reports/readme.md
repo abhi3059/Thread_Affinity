@@ -1,1 +1,1 @@
-Pinned Thread reports are store at this location 
+Pinned Thread reports are store at this location for test 
